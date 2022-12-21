@@ -6,7 +6,7 @@
 	<test name="ApiTests">
 	
 		<classes>
-			<class name='tests.petApiTesting'></class>			
+			<class name='petStoreApiTests.petApiTesting'></class>			
 		</classes>
 	</test>
 </suite>
