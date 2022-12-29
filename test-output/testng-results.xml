@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-28T19:48:39 EST" name="Default suite" finished-at="2022-12-28T19:48:56 EST" duration-ms="16820">
+    <groups>
+    </groups>
+    <test started-at="2022-12-28T19:48:39 EST" name="Default test" finished-at="2022-12-28T19:48:56 EST" duration-ms="16820">
+      <class name="tests.CraterItemsTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.CraterItemsTests@7a69b07]" started-at="2022-12-28T19:48:39 EST" name="setup" finished-at="2022-12-28T19:48:43 EST" duration-ms="4719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createItem()[pri:0, instance:tests.CraterItemsTests@7a69b07]" started-at="2022-12-28T19:48:43 EST" name="createItem" finished-at="2022-12-28T19:48:55 EST" duration-ms="11564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createItem -->
+        <test-method is-config="true" signature="wrapup()[pri:0, instance:tests.CraterItemsTests@7a69b07]" started-at="2022-12-28T19:48:55 EST" name="wrapup" finished-at="2022-12-28T19:48:55 EST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapup -->
+      </class> <!-- tests.CraterItemsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,26 @@
+{
+  "id": 7890,
+  "category": {
+    "id": 33,
+    "name": "donkey"
+  },
+  "name": "Stubborn Donkey",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 41,
+      "name": "Donkey41"
+    },
+    {
+      "id": 42,
+      "name": "Donkey42"
+    },
+       {
+      "id": 43,
+      "name": "Donkey43"
+    }
+  ],
+  "status": "available"
+}
