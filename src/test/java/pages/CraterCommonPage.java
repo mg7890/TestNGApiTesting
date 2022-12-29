@@ -6,15 +6,13 @@ import org.openqa.selenium.support.PageFactory;
 
 import utils.Driver;
 
-public class CraterDashboardPage {
+public class CraterCommonPage {
 	
-	public CraterDashboardPage() {
+	public CraterCommonPage() {
 		PageFactory.initElements(Driver.getDriver(), this);
 	}
 	
-	
-	@FindBy (xpath = "//span[text()='Amount Due']")
-	public WebElement amountDueText;
+	@FindBy (xpath = "//a[contains(text(), 'Items')]")
+	public WebElement commonPageItemsLink;
 
 }
-
